@@ -1,3 +1,3 @@
-module Gdata
-  VERSION = "0.0.1"
+module Kopo
+  VERSION = "1.1.2"
 end
