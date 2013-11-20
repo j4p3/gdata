@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Gdata::VERSION
   spec.authors       = ["JP"]
   spec.email         = ["bonnerjp@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A port of Google's gdata gem with modifications to work on Rails 4 with rails-api & oauth-plugin}
+  spec.summary       = %q{}
   spec.homepage      = ""
   spec.license       = "MIT"
 
